@@ -1,5 +1,5 @@
 # 資料說明
-## 報告連結：https://drive.google.com/file/d/1FKVBbkf_5kks0grOphmDAZ2ofR3EsBMg/view?usp=sharing
+## 報告連結：https://drive.google.com/file/d/1OC1YH-RHBmnu58a_Qi4Q4iDIsUeScP1o/view?usp=sharing
 ## coordinated-user-detection/dataset/user_timeline.json
 * tweet_id: Tweet ID
 * author_id: 發文/轉推者ID 
